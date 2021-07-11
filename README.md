@@ -1,0 +1,1 @@
+````g++ ahorcado.cpp```
