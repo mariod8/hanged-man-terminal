@@ -1,0 +1,8 @@
+--- Reglas ---
+
+1.- No escribir 'ñ'
+2.- No busques bugs
+3.- Las palabras que introduzcas no pueden contener mayúsculas, acentos o símbolos(¿?)
+4.- De momento solo se pueden utilizar palabras y no frases
+
+Pulsa cualquier tecla para continuar...
