@@ -1,1 +1,1 @@
-```g++ ahorcado.cpp```
+```Double click on "compile.bat" to run```
