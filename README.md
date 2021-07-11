@@ -1,1 +1,1 @@
-````g++ ahorcado.cpp```
+```g++ ahorcado.cpp```
